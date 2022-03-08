@@ -59,3 +59,18 @@ body {
     text-align: left;
     width:100%;
 }
+
+.morpheus:hover {
+    transform: scale(1.2);
+}
+
+td, th {
+    text-align: center;
+    border: 3px solid #cfff29;
+    padding:10px;
+    border-radius: 10px;
+}
+
+table {
+    padding: 10px;
+}
