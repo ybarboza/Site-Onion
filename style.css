@@ -9,44 +9,44 @@ body {
 
 /*     HEADER     */
 
-.header h1 {
-    font-size:50px;
-    color:white;
+.header {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #1C1C1C;
 }
 
-.header {
-    display:flex;
-    flex-direction: column;
-    border-bottom: 10px solid #cfff29;
-    background-color: #1C1C1C;
-    flex-wrap: wrap;
-    box-shadow: 1px 1px 5px black;
+.title {
+    display: flex;
+    gap:10px;
+    padding-top:10px;
+    justify-content: center;
 }
+
+.title h1 {
+    color:white;
+}
+.menu {
+    display: flex;
+    justify-content: center;
+    background-color: #cfff29;
+    gap:30px;
+    padding: 5px;
+}
+
+.menu a {
+    color:#1C1C1C;
+    font-weight: bold;
+
+}
+
+
 /*     MENU    */
 .item {
     text-decoration: none;
     color: white;
     font-size:18px;
     font-family: 'Montserrat', sans-serif;
-}
-
-.menu {
-    display: flex;
-    gap:30px;
-    justify-content: center;
-}
-
-.menu a:hover {
-    color:yellow;
-    transform: scale(1.1);
-}
-
-.title {
-    display: flex;
-    flex-direction: row;
-    gap:15px;
-    padding-top: 10px;
-    justify-content: center;
 }
 
 .content {
