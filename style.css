@@ -69,8 +69,17 @@ td, th {
     border: 3px solid #cfff29;
     padding:10px;
     border-radius: 10px;
+    width:200px;
 }
 
 table {
     border-spacing: 5px;
+}
+
+
+.footer {
+    display:flex;
+    justify-content: center;
+    font-family: 'Montserrat', sans-serif;
+    border-top: 1px solid #cfff29;
 }
