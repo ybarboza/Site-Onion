@@ -19,5 +19,5 @@
 
 <p>Yago Barcelos Barbosa</p>
 
-<p>Linkedin:https://www.linkedin.com/in/ybarbosa/</p>
-<p>barbosayago004@gmail.com</p>
+<a href="mailto:barbosayago004@gmail.com?subject=Contato">Email</a>
+<a href="https://www.linkedin.com/in/ybarbosa/">Linkedin</a>
