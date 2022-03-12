@@ -6,7 +6,7 @@
 <p>O intuito do projeto é reunir o maior acervo possível de links de sites, dos mais diversos assuntos, mantendo-os sempre atualizados.</p>
 
 <h2>Layout do projeto</h2>
-<img src="imagens/print-cebola.png" width="500/>
+<img src="https://github.com/ybarboza/Site-Onion/blob/master/imagens/print.png" width="500/>
 <h2>Tecnologias utilizadas</h2>
 
 <ul>
