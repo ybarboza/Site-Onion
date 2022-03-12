@@ -115,7 +115,7 @@ table {
 .box-item {
     display: flex;
     align-items: center;
-    gap:30px;
+    gap:10px;
     text-align: justify;
 }
 
@@ -126,4 +126,9 @@ table {
 .box {
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
+}
+
+img, text {
+    display: flex;
 }
