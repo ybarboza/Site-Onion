@@ -70,12 +70,14 @@ td, th {
 
 table {
     border-spacing: 5px;
+    padding:10px;
 }
 /*      BAND AND CHILDREEN      */
 .band {
     display: flex;
     align-items: center;
     justify-content: center;
+    padding:30px;
 }
 
 
